@@ -1,0 +1,16 @@
+doc
+.yardoc
+Gemfile.lock
+*.rbo
+*.gem
+xcuserdata
+.DS_Store
+test/fixture
+Makefile
+*.bundle
+*.o
+.rvmrc
+*.dot
+pkg/*
+TODO
+unfinished/
