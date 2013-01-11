@@ -5,6 +5,8 @@ automating GUI interactions on OS X. When you combine them you get
 `rspec-ax_elements`, a powerful tool for writing automated tests for
 GUI applications on OS X.
 
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/AXElements/rspec-ax_elements)
+
 
 ## Examples
 
