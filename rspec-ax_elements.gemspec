@@ -23,7 +23,7 @@ RSpec extensions for using AXElements
     [ 'spec/helper.rb' ]
 
 
-  s.add_runtime_dependency 'AXElements', '1.0.0.beta4'
+  s.add_runtime_dependency 'AXElements', '1.0.0.gamma'
   s.add_runtime_dependency 'rspec',      '~> 2.11'
 
   s.add_development_dependency 'yard',     '~> 0.8.3'
