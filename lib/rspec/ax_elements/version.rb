@@ -1,5 +1,5 @@
 module RSpec
   module Accessibility
-    VERSION = '0.9.0'
+    VERSION = '1.0.0.beta4'
   end
 end
