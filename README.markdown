@@ -6,6 +6,7 @@ automating GUI interactions on OS X. When you combine them you get
 GUI applications on OS X.
 
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/AXElements/rspec-ax_elements)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AXElements/rspec-ax_elements/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
 ## Examples
@@ -46,7 +47,3 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
 IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AXElements/rspec-ax_elements/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
